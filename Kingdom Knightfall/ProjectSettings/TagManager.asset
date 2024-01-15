@@ -15,14 +15,14 @@ TagManager:
   - 
   - Sand
   - Stone
+  - Grass
+  - 
+  - Deco
+  - 
+  - Bridge
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Building
   - 
   - 
   - 
@@ -46,4 +46,16 @@ TagManager:
     locked: 0
   - name: Sand
     uniqueID: 883367413
+    locked: 0
+  - name: Grass
+    uniqueID: 3828750085
+    locked: 0
+  - name: Deco
+    uniqueID: 1547757445
+    locked: 0
+  - name: Bridge
+    uniqueID: 407015077
+    locked: 0
+  - name: Building
+    uniqueID: 2493192883
     locked: 0
