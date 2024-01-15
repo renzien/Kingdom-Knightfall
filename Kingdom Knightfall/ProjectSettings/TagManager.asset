@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Sand
+  - Stone
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Stone
+    uniqueID: 2996223139
+    locked: 0
+  - name: Sand
+    uniqueID: 883367413
     locked: 0
